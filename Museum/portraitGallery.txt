@@ -1,0 +1,161 @@
+20
+1
+Memling
+Portrait of an Old Woman
+1480
+1.3
+Renaissance
+Oil
+Belgium
+2
+Metsys
+The Moneylender and His Wife
+1525
+2.1
+Renaissance
+Oil
+Belgium
+3
+Degas
+Dancer Adjusting Her Sipper
+1874
+1.0
+Impressionistic
+Drawing
+France
+4
+Degas
+Dancer Resting
+1874
+1.5
+Impressionistic
+Drawing
+France
+5
+Degas
+Dancing Master
+1874
+.9
+Impressionistic
+Drawing
+France
+6
+Degas
+The Dancer Jules Perrot
+1875
+1.3
+Impressionistic
+Oil
+France
+7 
+Leonardo Da Vinci
+The Virgin of the Rocks
+1498
+3.2
+Renaissance 
+Oil
+Italy
+8
+Degas
+Dancer Adjusting Her Costume
+1873
+1.2
+Impressionistic
+Drawing
+France
+9
+Bacciarelli
+Stanislaus Augustus Poniatowski
+1891
+3.4
+Classical
+Oil
+Italy
+10
+Titian
+The Man with a Glove
+1560
+4.5
+Classical
+Oil
+Italy
+11
+Rembrandt
+Portrait of a Young Man
+1650
+2.4
+Classical 
+Oil
+Dutch
+12
+Rembrandt
+Girl Leaning on a Stone Pedestal
+1650
+3.4
+Classical
+Oil
+Dutch
+13
+Murillo
+The Flower Girl
+1676
+.7
+Classical
+Oil
+Spain
+14
+Tiepolo
+Man with a Bird
+1759
+.6
+Classical
+Drawing 
+Italy
+15
+Gainsborough
+Phillippe-Jacques
+1755
+.5
+Classical
+Oil
+English
+16
+Lely
+Portrait of a Boy as a Shepherd
+1750
+2.3
+Classical
+Oil
+Britain
+17
+Van Gogh
+Self-portrait
+1889
+.9
+Impressionistic
+Oil
+France
+18
+Gauguin
+Self-portrait
+1890
+2.1
+Impressionistic
+Oil
+France
+19 
+Leo Vincia
+The Rocks
+1998
+3.2
+Modern 
+Oil
+Italy
+20
+Trobitian
+The Glove
+1960
+4.5
+Modern
+Oil
+Italy 

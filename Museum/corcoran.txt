@@ -1,0 +1,154 @@
+19
+1
+Angelico
+The Coronation of the Virgin
+1622
+6.6
+Renaissance
+Oil
+Italy
+2
+Ghirlandajo
+Portrait of an Old Man
+1590
+3.5
+Renaissance
+Oil
+Italy
+3
+Botticelli
+The Virgin and Child
+1603
+2.4
+Renaissance
+Oil 
+Italy
+4
+Botticelli
+Venus and the Three Graces
+1579
+2.4
+Renaissance
+Oil
+Italy
+5
+Corot
+Woman with a Pearl
+1867
+3.2
+Renaissance
+Oil
+France
+6
+Leonardo Da Vinci
+Study of draperies
+1502
+.5
+Renaissance
+Drawing
+Italy
+7
+Leonardo Da Vinci
+Mona Lisa
+1500
+2.4
+Renaissance
+Oil
+Italy
+8
+Manet
+The Picnic
+1879
+5.4
+Impressionistic
+Oil
+France
+9
+Giorg
+Open Air Concert
+1930
+4.3
+Modern
+Oil
+Italy
+10
+Tintoretto
+Paradise
+1600
+2.5
+Renaissance
+Drawing
+Italy
+11
+La Tour
+Adoration of the Shepherds
+1679
+1.3
+Baroque
+Oil
+France
+12
+Ribera
+The Clubfoot
+1702
+.5
+Renaissance
+Oil
+Spain
+13
+Zurab
+Funeral of Saint Bonaventurea
+1965
+2.4
+Modern 
+Oil
+Spain
+14
+Goya
+Lady with a Fan
+1795
+2.4
+Classical
+Oil
+Spain
+15
+Goya
+Portrait of Guillemardet
+1796
+2.1
+Classical
+Oil
+Spain
+16
+Goya
+Portrait of the Marchioness of Solana
+1793
+2.8
+Classical
+Oil
+Spain
+17
+Rubens
+The Virgin of the Innocents
+1803
+3.3
+Classical
+Oil
+Belgium
+18
+Memling
+Portrait of an Old Woman
+1480
+1.3
+Renaissance
+Oil
+Belgium
+19
+Metsis
+The Moneylender and His Wife
+1925
+2.1
+Modern
+Oil
+Belgium
+

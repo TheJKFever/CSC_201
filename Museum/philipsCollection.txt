@@ -1,0 +1,146 @@
+18
+1
+Cimabue
+The Virgin with the Angels
+1560
+3.5
+Renaissance 
+Oil
+Italy 
+2
+Martini
+The carrying of the Cross
+1602
+5.3
+Renaissance 
+Oil
+France
+3
+Baldovinetti
+Virgin and Child
+1593
+4.6
+Renaissance
+Oil
+Italy
+4
+Uccello
+Rout of San Romano
+1700
+5.6
+Baroque
+Oil
+German
+5
+Carpaccio
+Saint Stephen Preaching at Jerusalem
+1490
+3.4
+Renaissance
+Oil
+Italy
+6
+Mantegna
+The Calvary
+1500
+5.7
+Renaissance
+Oil
+Italy
+7
+Leonardo Da Vinci
+The Virgin, the Child
+1480
+4.2
+Renaissance
+Oil
+Italy
+8
+Raphael
+Psyche and Venus
+1520
+0.2
+Renaissance
+Drawing
+Italy
+9
+Raphael
+La Belle Jardiniere
+1510
+1.3
+Renaissance
+Oil
+Italy
+10
+Titian
+The Entombment
+1550
+6.7
+Renaissance
+Oil
+Italy
+11
+Titcomian
+Portrait of a Young Woman
+1945
+3.2
+Modern
+Oil
+Italy
+12
+Magnasco
+Landscape
+1725
+4.5
+Baroque
+Oil
+Italy
+13
+Tiepolo
+the Minuet
+1790
+3.5
+Baroque
+Oil
+Italy
+14
+Zurranian
+Saint Apoline
+1990
+6.3
+Modern 
+Oil
+Spain
+15
+Velasquez
+Portrait of the Infant Margaret
+1730
+2.4
+Classical
+Oil
+Spain
+16
+Jan Fyt
+Games and Hutting Objects
+1804
+2.1
+Classical
+Oil
+Belgium
+17
+Brouwer
+The Worker
+1930
+1.3
+Modern 
+Oil
+Belgium
+18
+Rembrandt
+Self-portrait
+1659
+.8
+Classical
+Oil
+Dutch
+

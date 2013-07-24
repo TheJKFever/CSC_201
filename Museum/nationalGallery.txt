@@ -1,0 +1,162 @@
+20
+1
+Giotto
+Saint Francis of Assisi
+1590
+2.9
+Renaissance 
+Tempera
+Italy
+2
+Angelico
+Martyrdom of Saint Cosmus
+1602
+4.6
+Renaissance
+Oil 
+Italy
+3
+Pisanello
+Study of Ducks
+1640
+1.3
+Renaissance
+Drawing
+Italy
+4
+Pisanello
+Portrait of a Lady
+1598
+0.7
+Renaissance
+Oil
+Italy
+5
+Tura
+Pieta
+1480
+6.7
+Renaissance
+Oil
+Italy
+6
+Bellini
+Christ Blessing after the Resurrection
+1501
+2.1
+Renaissance
+Oil
+Italy
+7
+Degas
+A Ballet Dancer in Position
+1872
+.7
+Impressionistic
+Drawing
+France
+8
+Correggio
+Saint James the Minor
+1530
+1
+Renaissance
+Drawing
+Italy
+9
+Correggio
+The Sleep of Antiope
+1502
+3.2
+Renaissance
+Oil
+Italy
+10
+Van Dyck
+Lady Venetia Digaby
+1650
+4
+Classical
+Oil
+Belgium
+11
+Veronese
+The Marriage at Cana
+1570
+12.5
+Renaissance
+Oil
+Italy
+12
+El Greco
+Portrait of Covarrubbias
+1559
+.5
+Renaissance
+Oil
+Spain
+13
+El Greco
+Christ of the Cross
+1560
+5.4
+Renaissance
+Oil
+Spain
+14
+Renoir
+Portrait of Madame Charpentier
+1890
+1.78
+Impressionistic
+Oil
+France
+15
+Velasquez
+Portrait of Queen Marianna
+1700
+2.1
+Renaissance 
+Oil
+Spain
+16
+Van Eyck
+The Virgin with the Chancellor Rolin
+1420
+2.3
+Renaissance
+Oil
+Belgium
+17
+Van Der Weyden
+The Annunciation
+1439
+3.1
+Renaissance
+Oil
+Belgium
+18
+David
+Madame Recamier
+1790
+2.5
+Classical
+Oil
+French
+19
+El Grenara
+Portrait of a Lady
+1959
+.5
+Modern
+Oil
+Spain
+20
+Van Der Hoveven
+The Annunciation
+1939
+3.1
+Modern
+Oil
+Belgium
+

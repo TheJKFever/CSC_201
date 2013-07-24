@@ -1,0 +1,191 @@
+This program creates art exhibitions.
+Would you like to create a new exhibition?
+Enter yes or no.
+yes
+For this exhibition, from which Museums would
+you like the art work be drawn?
+Please enter their numbers on one line.
+1) National Gallery
+2) Philips Collection
+3) Corcoran
+4) Portrait Gallery
+1 3 4
+Now that you have chosen the museums,
+please choose an exhibition topic
+and enter its number.
+1) Painter
+2) Year painted
+3) Size
+4) Medium
+5) Country
+6) Genre
+6
+Please choose the genre
+and enter its number.
+1) Renaissance
+2) Baroque
+3) Classical
+4) Impressionistic
+5) Modern
+1
+The exhibition is drawn from these museums:
+National Gallery
+Corcoran
+Portrait Gallery
+The paintings from the Renaissance period are: 
+1 )Angelico          1602 Martyrdom of Saint Cosmus
+   Renaissance       Oil       Italy             4.6               
+
+2 )Pisanello         1640 Study of Ducks
+   Renaissance       Drawing   Italy             1.3               
+
+3 )Pisanello         1598 Portrait of a Lady
+   Renaissance       Oil       Italy             0.7               
+
+4 )Tura              1480 Pieta
+   Renaissance       Oil       Italy             6.7               
+
+5 )Bellini           1501 Christ Blessing after the Resurrection
+   Renaissance       Oil       Italy             2.1               
+
+6 )Correggio         1530 Saint James the Minor
+   Renaissance       Drawing   Italy             1.0               
+
+7 )Correggio         1502 The Sleep of Antiope
+   Renaissance       Oil       Italy             3.2               
+
+8 )Veronese          1570 The Marriage at Cana
+   Renaissance       Oil       Italy             12.5              
+
+9 )El Greco          1559 Portrait of Covarrubbias
+   Renaissance       Oil       Spain             0.5               
+
+10)El Greco          1560 Christ of the Cross
+   Renaissance       Oil       Spain             5.4               
+
+11)Van Eyck          1420 The Virgin with the Chancellor Rolin
+   Renaissance       Oil       Belgium           2.3               
+
+12)Van Der Weyden    1439 The Annunciation
+   Renaissance       Oil       Belgium           3.1               
+
+13)Angelico          1622 The Coronation of the Virgin
+   Renaissance       Oil       Italy             6.6               
+
+14)Ghirlandajo       1590 Portrait of an Old Man
+   Renaissance       Oil       Italy             3.5               
+
+15)Botticelli        1603 The Virgin and Child
+   Renaissance       Oil       Italy             2.4               
+
+16)Botticelli        1579 Venus and the Three Graces
+   Renaissance       Oil       Italy             2.4               
+
+17)Corot             1867 Woman with a Pearl
+   Renaissance       Oil       France            3.2               
+
+18)Leonardo Da Vinci 1502 Study of draperies
+   Renaissance       Drawing   Italy             0.5               
+
+19)Leonardo Da Vinci 1500 Mona Lisa
+   Renaissance       Oil       Italy             2.4               
+
+20)Tintoretto        1600 Paradise
+   Renaissance       Drawing   Italy             2.5               
+
+21)Ribera            1702 The Clubfoot
+   Renaissance       Oil       Spain             0.5               
+
+22)Memling           1480 Portrait of an Old Woman
+   Renaissance       Oil       Belgium           1.3               
+
+23)Memling           1480 Portrait of an Old Woman
+   Renaissance       Oil       Belgium           1.3               
+
+24)Metsys            1525 The Moneylender and His Wife
+   Renaissance       Oil       Belgium           2.1               
+
+
+Would you like to create a new exhibition?
+Enter yes or no.
+yes
+For this exhibition, from which Museums would
+you like the art work be drawn?
+Please enter their numbers on one line.
+1) National Gallery
+2) Philips Collection
+3) Corcoran
+4) Portrait Gallery
+1 2 3 4
+Now that you have chosen the museums,
+please choose an exhibition topic
+and enter its number.
+1) Painter
+2) Year painted
+3) Size
+4) Medium
+5) Country
+6) Genre
+1
+Please enter a painter
+Rembrandt
+The exhibition is drawn from these museums:
+National Gallery
+Philips Collection
+Corcoran
+Portrait Gallery
+The paintings by Rembrandt are: 
+1 )Rembrandt         1659 Self-portrait
+   Classical         Oil       Dutch             0.8               
+
+2 )Rembrandt         1650 Portrait of a Young Man
+   Classical         Oil       Dutch             2.4               
+
+3 )Rembrandt         1650 Girl Leaning on a Stone Pedestal
+   Classical         Oil       Dutch             3.4               
+
+
+Would you like to create a new exhibition?
+Enter yes or no.
+yes
+For this exhibition, from which Museums would
+you like the art work be drawn?
+Please enter their numbers on one line.
+1) National Gallery
+2) Philips Collection
+3) Corcoran
+4) Portrait Gallery
+3 2
+Now that you have chosen the museums,
+please choose an exhibition topic
+and enter its number.
+1) Painter
+2) Year painted
+3) Size
+4) Medium
+5) Country
+6) Genre
+5
+Please enter a Country
+France
+The exhibition is drawn from these museums:
+Corcoran
+Philips Collection
+The paintings from France are: 
+1 )Corot             1867 Woman with a Pearl
+   Renaissance       Oil       France            3.2               
+
+2 )Manet             1879 The Picnic
+   Impressionistic   Oil       France            5.4               
+
+3 )La Tour           1679 Adoration of the Shepherds
+   Baroque           Oil       France            1.3               
+
+4 )Martini           1602 The carrying of the Cross
+   Renaissance       Oil       France            5.3               
+
+
+Would you like to create a new exhibition?
+Enter yes or no.
+no
+Thank you for creating exhibitions of paintings

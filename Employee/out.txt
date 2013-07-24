@@ -1,0 +1,23 @@
+
+Employee: Jim Jackson
+Hours Worekd: 45.0
+Hourly Rate: $14.50
+Gross Wages: $688.75
+	Current	Yr. To Date
+Federal	$137.75	$12137.75
+State	$34.43	$1034.43
+Local	$10.33	$210.33
+Deducations: $182.51	$13382.51
+Net Pay: $506.23
+
+Phillips, Inc
+Weekly summery
+	Current	Yr. To Date
+Federal	$137.75	$12137.75
+State	$34.43	$1034.43
+Local	$10.33	$210.33
+Deducations   $182.51	$13382.51
+Gross Wages: $688.75
+Net Pay: $506.23
+
+
